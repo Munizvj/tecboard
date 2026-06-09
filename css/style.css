@@ -6,8 +6,7 @@
 /* Fontes */
 @font-face{
     font-family: "Unbounded";
-    src: url(../fonts/Unbounded-Bold.ttf)
-    format("truetype");
+    src: url(../fonts/Unbounded-Bold.ttf) format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -36,7 +35,7 @@ header img{
 }
 
 h1{
-    font-size: 64px;
+    font-size: 65px;
     font-family: "Unbounded",sans-serif;
     text-align: center;
 }
